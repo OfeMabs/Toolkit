@@ -1,0 +1,13 @@
+Task : Set up GIT on your machine , push and pull one file.
+ ** those who clone and get  a repo running get an extra point
+Git Commands
+cd - change directory
+../ - forward
+git status - check the status of your code
+git add - git add data /file .
+git add .
+git push - push your code to git hub
+git pull - pull your code from git hub
+Please note these are basic commands ,
+I suggest setting up a cheat sheet to store all commands going forwards
+
